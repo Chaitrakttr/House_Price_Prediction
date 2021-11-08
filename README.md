@@ -25,9 +25,10 @@ Install credentials with requirements.txt
     
 ## Screenshots
 
+![home](https://user-images.githubusercontent.com/66559862/140810161-4cb32fe5-1b2d-4663-a63d-40ecab8189ac.JPG) 
 ![aboutus](https://user-images.githubusercontent.com/66559862/140810152-f89920bd-c15b-4c16-9fdd-93fc94a7cc7d.JPG)
 ![estimate](https://user-images.githubusercontent.com/66559862/140810158-af746580-8d3c-43a8-a14b-d84e501d99d5.JPG)
 ![evaluation](https://user-images.githubusercontent.com/66559862/140810160-18ba97a8-b46c-436a-92f4-836975163f52.JPG)
-![home](https://user-images.githubusercontent.com/66559862/140810161-4cb32fe5-1b2d-4663-a63d-40ecab8189ac.JPG)
+
 The Predict app is the "Estimate page"
 
