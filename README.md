@@ -12,6 +12,12 @@ This data science project walks through step by step process of how to build a r
 Refer to the "model/House_pp.ipynb" folder for model creation.
 Refer to the "server/deployment and server/util" for flask.
 
+## Tech Stack
+
+**Client:** html, JS, CSS
+
+**Server:** Flask
+
 # Testing
 
 You can use porstman for testing your app.
@@ -32,4 +38,15 @@ Install credentials with requirements.txt
 
 
 The Predict app is the "Estimate page"
+
+
+## Deployment
+
+To deploy this project I have used Amazon AWS EC2.
+
+```bash
+  http://ec2-3-128-160-238.us-east-2.compute.amazonaws.com/ 
+```
+This url can be mapped to Godaddy.com or Bluehost(buy domain) 
+and can be hosted on bhp.com[as I used this as an initial credential for my deployment]
 
